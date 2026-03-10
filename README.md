@@ -36,14 +36,20 @@ Version Control:
 ## 📁 Project Structure
 
 real-time-project-management-system
-│
+
 ├── frontend
+
 │ ├── src
+
 │ ├── components
+
 │ ├── pages
+
 │ └── styles
+
 │
 ├── backend
+
 │
 └── README.md
 
@@ -52,9 +58,11 @@ real-time-project-management-system
 ## ⚙️ Installation
 
 Clone the repository:
+
 git clone https://github.com/Sunlight8169/real-time-project-management-system.git
 
 Go to project directory: 
+
 cd real-time-project-management-system
 
 Install frontend dependencies:
