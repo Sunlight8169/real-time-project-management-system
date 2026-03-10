@@ -35,23 +35,22 @@ Version Control:
 
 ## 📁 Project Structure
 
+```
 real-time-project-management-system
-
+│
 ├── frontend
-
-│ ├── src
-
-│ ├── components
-
-│ ├── pages
-
-│ └── styles
-
+│   ├── src
+│   │   ├── components
+│   │   ├── pages
+│   │   └── styles
+│   │
+│   ├── public
+│   └── package.json
 │
 ├── backend
-
 │
 └── README.md
+```
 
 ---
 
